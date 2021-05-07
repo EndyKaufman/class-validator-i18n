@@ -10,156 +10,156 @@ msgstr ""
 "Project-Id-Version: class-validator\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2021-05-07 08:46\n"
+"PO-Revision-Date: 2021-05-07 09:49\n"
 
 #: src/decorator/object/IsInstance.ts:41
 msgid "$IS_INSTANCE decorator expects and object as value, but got falsy value."
-msgstr ""
+msgstr "$IS_INSTANCE dekoratör bir nesne değer olmasını bekler, ancak yanlış değer atanmış"
 
 #: src/decorator/date/MaxDate.ts:25
 #: src/decorator/date/MinDate.ts:25
 msgid "$property is $constraint1"
-msgstr ""
+msgstr "$property $constraint1 'dir"
 
 #: src/decorator/string/IsDecimal.ts:32
 msgid "$property is not a valid decimal number."
-msgstr ""
+msgstr "$property geçerli bir ondalık sayı değil"
 
 #: src/decorator/string/IsBIC.ts:27
 msgid "$property must be a BIC or SWIFT code"
-msgstr ""
+msgstr "$property BIC veya SWIFT kodu olmalıdır"
 
 #: src/decorator/string/IsBooleanString.ts:27
 msgid "$property must be a boolean string"
-msgstr ""
+msgstr "$property bir doğru veya yanlış dizesi olmalıdır"
 
 #: src/decorator/typechecker/IsBoolean.ts:24
 msgid "$property must be a boolean value"
-msgstr ""
+msgstr "$property doğru veya yanlış değeri olmalıdır"
 
 #: src/decorator/string/IsBtcAddress.ts:27
 msgid "$property must be a BTC address"
-msgstr ""
+msgstr "$property bir BTC adres olmalıdır"
 
 #: src/decorator/string/IsCreditCard.ts:27
 msgid "$property must be a credit card"
-msgstr ""
+msgstr "$property bir kredi kartı olmalıdır"
 
 #: src/decorator/string/IsCurrency.ts:32
 msgid "$property must be a currency"
-msgstr "$property para birimi olmalı"
+msgstr "$property bir para birimi olmalı"
 
 #: src/decorator/string/IsDataURI.ts:27
 msgid "$property must be a data uri format"
-msgstr "$property uri formatı olmalı"
+msgstr "$property bir uri formatı olmalı"
 
 #: src/decorator/typechecker/IsDate.ts:24
 msgid "$property must be a Date instance"
-msgstr "$property tarih örneği olmalı"
+msgstr "$property bir tarih örneği olmalıdır"
 
 #: src/decorator/string/IsFirebasePushId.ts:27
 msgid "$property must be a Firebase Push Id"
-msgstr ""
+msgstr "$property bir Firebase  Push Id olmalıdır"
 
 #: src/decorator/string/IsHash.ts:31
 msgid "$property must be a hash of type $constraint1"
-msgstr ""
+msgstr "$property $constraint1 türünde bir karma değer olmalıdır"
 
 #: src/decorator/string/IsHexColor.ts:27
 msgid "$property must be a hexadecimal color"
-msgstr ""
+msgstr "$property bir onaltılık renk olmalıdır"
 
 #: src/decorator/string/IsHexadecimal.ts:27
 msgid "$property must be a hexadecimal number"
-msgstr ""
+msgstr "$property bir onaltılık bir sayı olmalıdır"
 
 #: src/decorator/string/IsHSL.ts:29
 msgid "$property must be a HSL color"
-msgstr ""
+msgstr "$property bir HSL renk olmalıdır"
 
 #: src/decorator/string/IsIdentityCard.ts:36
 msgid "$property must be a identity card number"
-msgstr ""
+msgstr "$property bir kimlik kart numarası olmalıdır"
 
 #: src/decorator/string/IsISSN.ts:28
 msgid "$property must be a ISSN"
-msgstr ""
+msgstr "$property bir ISSN olmalıdır"
 
 #: src/decorator/string/IsJSON.ts:27
 msgid "$property must be a json string"
-msgstr ""
+msgstr "$property bir json dizesi olmalıdır"
 
 #: src/decorator/string/IsJWT.ts:27
 msgid "$property must be a jwt string"
-msgstr ""
+msgstr "$property bir jwt dizesi olmalıdır"
 
 #: src/decorator/common/IsLatitude.ts:25
 msgid "$property must be a latitude string or number"
-msgstr ""
+msgstr "$property bir enlem dizesi veya sayı olmalıdır"
 
 #: src/decorator/common/IsLatLong.ts:25
 msgid "$property must be a latitude,longitude string"
-msgstr ""
+msgstr "$property bir enlem boylam dizesi olmalıdır"
 
 #: src/decorator/common/IsLongitude.ts:25
 msgid "$property must be a longitude string or number"
-msgstr ""
+msgstr "$property boylam dizesi veya sayı olmalıdır"
 
 #: src/decorator/string/IsLowercase.ts:27
 msgid "$property must be a lowercase string"
-msgstr "$property küçük harf olmalı"
+msgstr "$property bir küçük harf dizesi olmalı"
 
 #: src/decorator/string/IsMacAddress.ts:42
 msgid "$property must be a MAC Address"
-msgstr ""
+msgstr "$property bir MAC Adres olmalıdır"
 
 #: src/decorator/string/IsMongoId.ts:27
 msgid "$property must be a mongodb id"
-msgstr ""
+msgstr "$property bir mangodb id olmalıdır"
 
 #: src/decorator/number/IsNegative.ts:24
 msgid "$property must be a negative number"
-msgstr ""
+msgstr "$property bir negatif sayı olmalıdır"
 
 #: src/decorator/object/IsNotEmptyObject.ts:45
 msgid "$property must be a non-empty object"
-msgstr ""
+msgstr "$property boş olmayan bir nesne olmalıdır"
 
 #: src/decorator/typechecker/IsNumber.ts:56
 msgid "$property must be a number conforming to the specified constraints"
-msgstr ""
+msgstr "$property belirtilen kısıtlamalara uyan sayı olmalıdır"
 
 #: src/decorator/string/IsNumberString.ts:32
 msgid "$property must be a number string"
-msgstr ""
+msgstr "$property bir sayı dizesi olmalıdır"
 
 #: src/decorator/string/IsMobilePhone.ts:53
 msgid "$property must be a phone number"
-msgstr ""
+msgstr "$property bir telefon numarası olmalıdır"
 
 #: src/decorator/string/IsPort.ts:24
 msgid "$property must be a port"
-msgstr ""
+msgstr "$property bir port olmalıdır"
 
 #: src/decorator/number/IsPositive.ts:24
 msgid "$property must be a positive number"
-msgstr ""
+msgstr "$property bir pozitif sayı olmalıdır"
 
 #: src/decorator/string/IsPostalCode.ts:34
 msgid "$property must be a postal code"
-msgstr ""
+msgstr "$property bir posta kodu olmalıdır"
 
 #: src/decorator/string/IsSemVer.ts:27
 msgid "$property must be a Semantic Versioning Specification"
-msgstr ""
+msgstr "$property bir anlamsal sürüm oluşturma belirtimi olmalıdır"
 
 #: src/decorator/typechecker/IsString.ts:24
 msgid "$property must be a string"
-msgstr ""
+msgstr "$property bir dizi olmalıdır"
 
 #: src/decorator/string/IsFQDN.ts:29
 msgid "$property must be a valid domain name"
-msgstr ""
+msgstr "$property geçerli bir domain adı olmalıdır"
 
 #: src/decorator/typechecker/IsEnum.ts:26
 msgid "$property must be a valid enum value"
